@@ -1,0 +1,5 @@
+export PATH="$HOME/.rbenv/bin:$PATH"
+eval "$(rbenv init -)"
+rbenv global 3.0.0
+export PATH="/Users/jagmeetdhillon/.rbenv/shims/rdbg/bin:$PATH"
+
